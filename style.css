@@ -1,0 +1,28 @@
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+body {
+    /* display: flex; */
+}
+
+/* HEADER */
+
+.header
+.panel1 {
+    background-color: blue;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+
+ol {
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
